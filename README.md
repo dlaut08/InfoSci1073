@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Dave Lauterbach / dal102@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   I work at AutoZone.
+*   I am a Pitt Senior.
+*   I live in the South Hills.
 
 ---
 Make some changes locally.  I want to add  a sentence.
